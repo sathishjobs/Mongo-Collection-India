@@ -1,0 +1,469 @@
+[{
+	"_id": {
+		"$oid": "5a68e6cef678f403101264fa"
+	},
+	"updatedAt": {
+		"$date": "2018-01-24T20:04:30.903Z"
+	},
+	"createdAt": {
+		"$date": "2018-01-24T20:04:30.903Z"
+	},
+	"state": "Tamil Nadu",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868a20633fc403ea8c5cb1"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:40:28.366Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:37:04.835Z"
+	},
+	"state": "kerala",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868b1e633fc403ea8c5cb2"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:43:22.347Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:41:18.348Z"
+	},
+	"state": "assam",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868bce633fc403ea8c5cb3"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:44:14.372Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:44:14.372Z"
+	},
+	"state": "karnataka",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868d417229990419fdff95"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:50:25.864Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:50:25.864Z"
+	},
+	"state": "andaman and nicobar",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868e447229990419fdff96"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:54:44.225Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:54:44.225Z"
+	},
+	"state": "Andhra pradesh",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868ee87229990419fdff97"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:57:28.988Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:57:28.988Z"
+	},
+	"state": "Arunachal Pradesh",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868f097229990419fdff98"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:58:01.427Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:58:01.427Z"
+	},
+	"state": "Bihar",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868f307229990419fdff99"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:58:40.264Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:58:40.264Z"
+	},
+	"state": "Chandigarh",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a868f677229990419fdff9a"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T07:59:35.660Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T07:59:35.660Z"
+	},
+	"state": "Chhattisgarh",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8691427229990419fdff9c"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:07:30.047Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:07:30.047Z"
+	},
+	"state": "Dadra and Nagar Haveli",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a86916f7229990419fdff9d"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:08:15.308Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:08:15.308Z"
+	},
+	"state": "Daman and Diu",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8691967229990419fdff9e"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:08:54.743Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:08:54.743Z"
+	},
+	"state": "Delhi",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8691ab7229990419fdff9f"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:09:15.816Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:09:15.816Z"
+	},
+	"state": "Goa",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8691cb7229990419fdffa0"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:09:47.187Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:09:47.187Z"
+	},
+	"state": "Gujarat",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8691e47229990419fdffa1"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:10:12.348Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:10:12.348Z"
+	},
+	"state": "Haryana",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8692127229990419fdffa2"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:10:58.512Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:10:58.512Z"
+	},
+	"state": "Himachal Pradesh",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8692567229990419fdffa3"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:12:06.973Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:12:06.973Z"
+	},
+	"state": "Jammu and Kashmir",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8692837229990419fdffa4"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:12:51.721Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:12:51.721Z"
+	},
+	"state": "Jharkhand",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8692f97229990419fdffa5"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:14:49.023Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:14:49.023Z"
+	},
+	"state": "Lakshadweep",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8693287229990419fdffa6"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:15:36.173Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:15:36.173Z"
+	},
+	"state": "Madhya Pradesh",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8693447229990419fdffa7"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:16:04.042Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:16:04.042Z"
+	},
+	"state": "Maharashtra",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a86935b7229990419fdffa8"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:16:27.084Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:16:27.084Z"
+	},
+	"state": "Manipur",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8693737229990419fdffa9"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:16:51.506Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:16:51.506Z"
+	},
+	"state": "Meghalaya",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a86938e7229990419fdffaa"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:17:18.251Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:17:18.251Z"
+	},
+	"state": "Mizoram",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8693a67229990419fdffab"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:17:42.903Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:17:42.903Z"
+	},
+	"state": "Nagaland",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8693c17229990419fdffac"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:18:09.768Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:18:09.768Z"
+	},
+	"state": "Odisha",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a86940d7229990419fdffad"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:19:25.859Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:19:25.859Z"
+	},
+	"state": "Puducherry",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8694297229990419fdffae"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:19:53.778Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:19:53.778Z"
+	},
+	"state": "Punjab",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8694487229990419fdffaf"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:20:24.522Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:20:24.522Z"
+	},
+	"state": "Rajasthan",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a86946c7229990419fdffb0"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:21:00.020Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:21:00.020Z"
+	},
+	"state": "Sikkim",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8694b47229990419fdffb1"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:22:12.769Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:22:12.769Z"
+	},
+	"state": "Telangana",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8694cf7229990419fdffb2"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:22:39.802Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:22:39.802Z"
+	},
+	"state": "Tripura",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8694fa7229990419fdffb3"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:23:22.495Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:23:22.495Z"
+	},
+	"state": "Uttar Pradesh",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8695247229990419fdffb4"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:24:04.284Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:24:04.284Z"
+	},
+	"state": "Uttaranchal",
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5a8695487229990419fdffb5"
+	},
+	"updatedAt": {
+		"$date": "2018-02-16T08:24:40.647Z"
+	},
+	"createdAt": {
+		"$date": "2018-02-16T08:24:40.647Z"
+	},
+	"state": "West Bengal",
+	"__v": 0
+}]
+
